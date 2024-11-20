@@ -8,8 +8,4 @@ TEA (Tiny Encryption Algorithm) is a symmetric-key block cipher that encrypts 64
 <img src="https://imgur.com/JmhWOWi.png" height="80%" width="80%" alt="IMAGE NOT AVAILABLE"/>
 <br />
 
-Equivalent key:
-0x00000000 0x80000000 0x00000000 0x00000000
-0x80000000 0x00000000 0x00000000 0x00000000
-0x80000000 0x00000000 0x80000000 0x80000000
-0x00000000 0x90000000 0x80000000 0x80000000
+
